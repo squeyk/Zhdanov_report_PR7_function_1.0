@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Zhdanov_report_PR7_function/Zhdanov_report_PR7_function.vcxproj" />
+</Solution>
